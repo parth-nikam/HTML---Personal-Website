@@ -1,6 +1,6 @@
 # HTML - Personal Website
 
-Welcome to my HTML personal portfolio website! This website showcases my projects and skills as an iOS and Web developer.
+Welcome to my HTML website! This website showcases my projects and skills as an iOS and Web developer.
 
 ## Website Link
 
